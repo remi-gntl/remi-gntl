@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rémi <img width="40" height="40" src="https://emoji.gg/assets/emoji/8111-shinycharizard.gif"></h1>
+<h1 align="center">Hi 👋, I'm Rémi </h1>
 <h3 align="center">I'm Developer assistant at The Gill Corporation and student at IUT Bayonne et du Pays Basque</h3>
 
 -  📖 I’m currently learning **C++, JS, PHP, C, Python, SQL, Bash**
@@ -27,11 +27,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,mysql,php" />
   </a>
-<h3 align="center">Web Development Frameworks:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,react" />
-
 
 <h3 align="center">Version Control and Collaboration:</h3>
 <p align="center">
