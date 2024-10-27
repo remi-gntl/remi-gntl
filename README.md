@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rémi </h1>
 <h3 align="center">I'm Developer assistant at The Gill Corporation and student at IUT Bayonne et du Pays Basque</h3>
 
--  📖 I’m currently learning **C++, JS, PHP, C, Python, SQL, Bash**
+-  📖 Actually learning **C++, JS, PHP, C, Python, SQL, Bash**
 
 -  🎓 Currently in second year of university
 
