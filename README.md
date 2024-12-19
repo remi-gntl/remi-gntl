@@ -25,7 +25,7 @@
 <h3 align="center">Web Development:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,php" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,php,nginx" />
   </a>
 
 <h3 align="center">Version Control and Collaboration:</h3>
@@ -38,7 +38,7 @@
 <h3 align="center">Development Tools and Environment:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,qt" />
+    <img src="https://skillicons.dev/icons?i=vscode,qt,docker,idea" />
   </a>
 </p>
 
