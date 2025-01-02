@@ -18,7 +18,7 @@
 <h3 align="center">Languages & Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,bash,html,js,php" />
+    <img src="https://skillicons.dev/icons?i=cpp,bash,c,html,js,php" />
     <img src="https://skillicons.dev/icons?i=py,qt,mysql,powershell&theme=dark" />
   </a>
 </p>
