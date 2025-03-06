@@ -18,47 +18,48 @@
 
 ---
 
-## 🛠 Skills
+<h2 align="center">🛠 Skills</h2>
 
-### Programming Languages
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,html,js,mysql,php,cpp,bash,c,py,java,powershell&theme=dark" />
 </p>
 
-### Frameworks & Libraries
+<h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,qt,bootstrap,tailwind,angular" />
 </p>
 
-### Version Control & Collaboration
+<h3 align="center">Version Control & Collaboration</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
-### Development Tools & Environment
+<h3 align="center">Development Tools & Environment</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,qt,idea,nginx" />
 </p>
 
-### Technologies & Apps
+<h3 align="center">Technologies & Apps</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,notion,blender,arduino" />
 </p>
 
-### Operating Systems
+<h3 align="center">Operating Systems</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,powershell&theme=dark" />
 </p>
 
 ---
 
-## Setup
-- **Laptop:** Asus Vivobook  
-- **Specs:** R5-5600H, 16Go RAM, RTX 3050  
+<h2 align="center">💻 Setup</h2>
+<h3 align="center">Asus Vivobook (R5-5600H, 16Go, RTX 3050)</h3>
 
 ---
 
-## About Me
-I am currently a second-year university student in computer science. I enjoy working on software development projects and learning new technologies. My interests include backend development, DevOps, and software architecture.  
-
-I am always open to new opportunities and collaborations. Feel free to reach out!  
+<h2 align="center">📌 About Me</h2>
+<p align="center">
+  Currently in my second year of Computer Science studies, I have a strong interest in web development but even more in project management.  
+  Passionate about sports, I am a swimmer currently training for the BNSSA certification and also a rugby player.  
+  Competitive and always striving for excellence, I am constantly looking for new challenges and discoveries.
+</p>
