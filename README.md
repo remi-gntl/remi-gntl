@@ -53,12 +53,14 @@
 
 ---
 
-<h2 align="center">💻 Setup</h2>
+## 💻 Setup
+
 <h3 align="center">Asus Vivobook (R5-5600H, 16Go, RTX 3050)</h3>
 
 ---
 
-<h2 align="center">📌 About Me</h2>
+## 📌 About Me
+
 <p align="center">
   Currently in my second year of Computer Science studies, I have a strong interest in web development but even more in project management.  
   Passionate about sports, I am a swimmer currently training for the BNSSA certification and also a rugby player.  
