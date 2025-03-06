@@ -15,17 +15,17 @@
 </div>
 
 <h2 align="center">Skills :</h2>
-<h3 align="center">Languages & Frameworks:</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,bash,c,html,js,php" />
-    <img src="https://skillicons.dev/icons?i=py,qt,mysql,powershell&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,php,nginx,cpp,bash,c,py,mysql,powershell&theme=dark" />
   </a>
 </p>
-<h3 align="center">Web Development:</h3>
+<h3 align="center">Frameworks:</h3>
+    <img src="https://skillicons.dev/icons?i=laravel,qt,bootstrap,tailwind,angular" />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,php,nginx" />
+    <img src="https://skillicons.dev/icons?i=" />
   </a>
 
 <h3 align="center">Version Control and Collaboration:</h3>
