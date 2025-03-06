@@ -18,7 +18,7 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,php,nginx,cpp,bash,c,py,java,powershell&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,php,cpp,bash,c,py,java,powershell&theme=dark" />
   </a>
 </p>
 <h3 align="center">Frameworks:</h3>
@@ -37,7 +37,7 @@
 <h3 align="center">Development Tools and Environment:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,qt,docker,idea" />
+    <img src="https://skillicons.dev/icons?i=vscode,qt,idea,docker,nginx" />
   </a>
 </p>
 
