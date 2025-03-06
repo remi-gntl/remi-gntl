@@ -44,7 +44,7 @@
 <h3 align="center">Technologies and Apps:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vfigma,notion,blender,arduino,idea" />
+    <img src="https://skillicons.dev/icons?i=figma,notion,blender,arduino" />
   </a>
 </p>
 
