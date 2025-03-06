@@ -3,7 +3,7 @@
 
 ---
 
-<h2 align="center">📬 Contacts</h2>
+##📬 Contacts
 
 <p align="center">
   <a href="mailto:rgentil@iutbayonne.univ-pau.fr">
@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">🛠 Skills</h2>
+##🛠 Skills
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
