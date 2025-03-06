@@ -15,7 +15,7 @@
 </div>
 
 <h2 align="center">Skills :</h2>
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,mysql,php,nginx,cpp,bash,c,py,powershell&theme=dark" />
