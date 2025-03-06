@@ -3,7 +3,8 @@
 
 ---
 
-## 📬 Contacts  
+<h2 align="center">📬 Contacts</h2>
+
 <p align="center">
   <a href="mailto:rgentil@iutbayonne.univ-pau.fr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
