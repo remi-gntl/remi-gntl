@@ -62,7 +62,7 @@
 ## 📌 About Me
 
 <p align="center">
-  Currently in my second year of Computer Science studies, I have a strong interest in web development but even more in project management.  
+  Currently in my third year of Computer Science studies, I have a strong interest in web development but even more in project management.  
   Passionate about sports, I am a swimmer currently training for the BNSSA certification and also a rugby player.  
   Competitive and always striving for excellence, I am constantly looking for new challenges and discoveries.
 </p>
