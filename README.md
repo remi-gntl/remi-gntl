@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rémi </h1>
-<h3 align="center">Developer Assistant at The Gill Corporation | Student in Computer Science at IUT Bayonne</h3>
+<h3 align="center">Application Developer at The Gill Corporation | Computer Science Student at IUT Bayonne</h3>
 
 ---
 
